@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/medavisbaevni.github.io\/R-D-Fl-gel\/map.json?alone=true"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
